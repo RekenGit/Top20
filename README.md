@@ -3,7 +3,7 @@ Program stworzony na zlecenie, ułatwiający codzienną prace, korzystający z a
 
 ![Obrazek pokazujący program #1](https://i.imgur.com/pU7qteb.png)
 ![Obrazek pokazujący program #2](https://i.imgur.com/WS52dx7.png)
-![Obrazek pokazujący program #3](https://i.imgur.com/k1xwzDp.png)
+![Obrazek pokazujący program #3](https://i.imgur.com/8YGQUjz.png)
 
 ### Działanie programu
 Pobiera dane z arkusza excel, przetwarza dane oraz wkłada je w odpowiednie miejsce w arkuszu końcowym.
