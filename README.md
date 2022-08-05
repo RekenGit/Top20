@@ -6,7 +6,7 @@ Program stworzony na zlecenie, ułatwiający codzienną prace, korzystający z a
 ![Obrazek pokazujący program #3](https://i.imgur.com/8YGQUjz.png)
 
 ### Działanie programu
-Pobiera dane z arkusza excel, przetwarza dane oraz wkłada je w odpowiednie miejsce w arkuszu końcowym.
+Przeciąga się pliki na odpowiednie czerwone pole, po czym klika odpowiedni guzik, program pobiera dane z arkusza excel, przetwarza dane oraz wkłada je w odpowiednie miejsce w arkuszu końcowym i zapisuje dany arkusz, tak by można było z niego dalej korzystać.
 
 
 #### Info
